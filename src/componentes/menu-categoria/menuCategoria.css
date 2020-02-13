@@ -1,0 +1,18 @@
+.menu-categoria {
+    width: 20%;
+    background-color: #DEF4ef;
+    font-family: Roboto;
+    margin: 10px;
+    min-height: 50%;
+}
+
+.lista-categorias {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.lista-categorias li {
+    margin-bottom: 5%; 
+    margin-top: 5%;   
+}

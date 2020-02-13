@@ -1,0 +1,53 @@
+{
+    "usuarios": [
+        { "id": 1, "title": "json-server", "author": "typicode" }
+    ],
+    "feminino": [
+        {"id": 1, "titulo": "Vestido preto javascript vanilão", "preco": 150, "foto": "https://cea.vteximg.com.br/arquivos/ids/11915751-1000-1200/Vestido-Feminino-Mindset-Midi-Canelado-com-Fenda-Um-Ombro-So--Preto-9943431-Preto_1.jpg?v=637170453188600000", "categoria": "Camisetas"},
+        {"id": 2, "titulo": "Camiseta crazy que parece do Breaking Bed", "preco": 79, "foto": "https://cea.vteximg.com.br/arquivos/ids/10519915-468-560/Blusa-Feminina--It--A-Coisa--Manga-Curta-Decote-Redondo--Preta-9701818-Preto_1.jpg?v=637027064179530000", "categoria": "Camisetas"},
+        {"id": 3, "titulo": "Camiseta amarelona topzera do Queen", "preco": 89, "foto": "https://cea.vteximg.com.br/arquivos/ids/10672723-468-560/Blusa-Feminina-de-Banda-Queen-Ampla-Manga-Curta-Decote-Redondo-Amarela-9713994-Amarelo_1.jpg?v=637066790707430000", "categoria": "Camisetas"},
+        {"id": 4, "titulo": "Camiseta top da mulher maravilha", "preco": 69, "foto": "https://cea.vteximg.com.br/arquivos/ids/7697356-468-560/Blusa-Feminina-Mulher-Maravilha-Manga-Curta-Decote-Redondo-Preta-9238966-Preto_1.jpg?v=636861006969330000", "categoria": "Camisetas"},
+        {"id": 5, "titulo": "Camiseta toda preta bem sem graça mas de marca top", "preco": 150, "foto": "https://cea.vteximg.com.br/arquivos/ids/10514149-468-560/Blusa-Feminina-Friends-Nomes-Manga-Curta-Decote-Redondo-Preta-9701819-Preto_1.jpg?v=637026181779130000", "categoria": "Camisetas"},
+        {"id": 6, "titulo": "Camiseta para os fãs loucos de friends", "preco": 80, "foto": "https://cea.vteximg.com.br/arquivos/ids/10379549-468-560/Blusa-Feminina-Esportiva-Friends-Manga-Curta-Decote-Redondo-Preta-9570611-Preto_1.jpg?v=636997726936730000", "categoria": "Camisetas"},
+        {"id": 7, "titulo": "Camiseta vermelha escrito NY nada ver", "preco": 90, "foto": "https://cea.vteximg.com.br/arquivos/ids/7889437-468-560/Blusa-Feminina--New-York--com-No-Manga-Curta-Decote-Redondo-Vermelha-9432241-Vermelho_1.jpg?v=636869847827270000", "categoria": "Camisetas"},
+        {"id": 8, "titulo": "Camiseta com o mascote do SPFC", "preco": 209, "foto": "https://cea.vteximg.com.br/arquivos/ids/10697845-468-560/Blusa-Feminina-Bambi-Manga-Curta-Decote-Redondo-Rosa-Escuro-9591794-Rosa_Escuro_1.jpg?v=637070138502370000", "categoria": "Camisetas"},
+        {"id": 9, "titulo": "Calça estilo domas", "preco": 79, "foto": "https://cea.vteximg.com.br/arquivos/ids/8569364-468-560/Calca-Jeans-Feminina-Cigarrete-Azul-Medio-9311748-Azul_Medio_1.jpg?v=636898168827230000", "categoria": "Calças"},
+        {"id": 10, "titulo": "Calça estilo domas para sair na night", "preco": 79, "foto": "https://cea.vteximg.com.br/arquivos/ids/10260602-468-560/Calca-Feminina-Clochard-com-Bolsos-Rosa-Escuro-9608541-Rosa_Escuro_1.jpg?v=636963770439670000", "categoria": "Calças"},
+        {"id": 11, "titulo": "Calça escura estilo domas para sair na night", "preco": 79, "foto": "https://cea.vteximg.com.br/arquivos/ids/8481803-468-560/Calca-Feminina-Clochard-com-Barra-Dobrada-Preta-9395582-Preto_1.jpg?v=636894847792330000", "categoria": "Calças"}
+    ],
+    "masculino": [
+        {"id": 1, "titulo": "Camiseta coloridona dos cara que curte um looney toones", "preco": 209, "foto": "https://cea.vteximg.com.br/arquivos/ids/4814390-468-560/Camiseta-Masculina-Estampada-Os-Flintstones-Manga-Curta-Gola-Careca-Branca-9208910-Branco_1.jpg?v=636724436671200000", "categoria": "Camisetas"},
+        {"id": 2, "titulo": "Camiseta coloridona dos cara que curte um looney toones", "preco": 209, "foto": "https://cea.vteximg.com.br/arquivos/ids/8708182-468-560/Calca-Masculina-Jogger-Estampada-Camuflada-em-Moletom-Verde-Militar-9542713-Verde_Militar_1.jpg?v=636903345388630000", "categoria": "Calças"}
+    ],
+    "infantil": [
+        {"id": 1, "titulo": "Camiseta brancona louca pro seu filho ruivo arrebentar no dia do brinquedo", "preco": 79, "foto": "https://cea.vteximg.com.br/arquivos/ids/10267056-468-560/Camiseta-Infantil-Basica-com-Bolso-Manga-Curta-Gola-Careca-Branca-9567186-Branco_1.jpg?v=636964041694430000", "categoria": "Camisetas"}
+    ],
+    "eletronicos": [
+        {"id": 1, "titulo": "Aquele samsung grand duos pra você arrebentar", "preco": 1209, "foto": "https://cea.vteximg.com.br/arquivos/ids/2914029-463-556/Smartphone-Samsung-G9650-Galaxy-S9-Plus-Open-Lilas-9208843-Lilas_1.jpg", "categoria": "Smartphone"},
+        {"id": 2, "titulo": "Televisão top pra assistir a grande familia", "preco": 3000, "foto": "https://a-static.mlcdn.com.br/618x463/title-reference/magazineluiza/193421000/c359113e9c8f334579c35e182926e74e.jpg", "categoria": "Televisão"}
+    ],
+    "promocoes": [
+        {"id": 1, "titulo": "Camiseta coloridona dos cara que curte um looney toones", "preco": 209, "foto": "https://cea.vteximg.com.br/arquivos/ids/4814390-468-560/Camiseta-Masculina-Estampada-Os-Flintstones-Manga-Curta-Gola-Careca-Branca-9208910-Branco_1.jpg?v=636724436671200000", "categoria": "Camisetas"},
+        {"id": 2, "titulo": "Aquele samsung grand duos pra você arrebentar", "preco": 1209, "foto": "https://cea.vteximg.com.br/arquivos/ids/2914029-463-556/Smartphone-Samsung-G9650-Galaxy-S9-Plus-Open-Lilas-9208843-Lilas_1.jpg", "categoria": "Camisetas"},
+        {"id": 3, "titulo": "Camiseta brancona louca pro seu filho ruivo arrebentar no dia do brinquedo", "preco": 209, "foto": "https://cea.vteximg.com.br/arquivos/ids/10267056-468-560/Camiseta-Infantil-Basica-com-Bolso-Manga-Curta-Gola-Careca-Branca-9567186-Branco_1.jpg?v=636964041694430000", "categoria": "Camisetas"}
+
+    ],
+    "categoriafeminino": [
+        {"id": 1, "titulo": "Camisetas"},
+        {"id": 2, "titulo": "Calças"}
+    ],
+    "categoriamasculino": [
+        {"id": 1, "titulo": "Camisetas"},
+        {"id": 2, "titulo": "Calças"}
+    ],
+    "categoriainfantil": [
+        {"id": 1, "titulo": "Camisetas"}
+    ],
+    "categoriaeletronicos": [
+        {"id": 1, "titulo": "Televisão"},
+        {"id": 2, "titulo": "Smartphone"}
+    ],
+    "categoriapromocoes": [
+        {"id": 1, "titulo": "Camisetas"}
+    ]
+}

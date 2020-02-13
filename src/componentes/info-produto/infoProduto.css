@@ -1,0 +1,26 @@
+.produto-info-wrapper {
+    width: 100%;
+    display: flex;
+    font-family: Roboto;
+    font-size: 2rem;
+}
+
+.produto-info-wrapper img {
+    width: 40%;
+}
+
+.infos-produto-wrapper {
+    width: 100%;
+}
+.decoracao1 {
+    height: 15%;
+    background-color: #165b9d;
+}
+.decoracao2 {
+    height: 10%;
+    background-color: #1c73c6;
+}
+p{
+    margin: 5%;
+}
+
